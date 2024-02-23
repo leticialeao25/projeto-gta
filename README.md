@@ -1,1 +1,1 @@
-Projeto HTML e CSS, simples, com o professor Jamilton Damasceno e Jorge Sant Ana, pelo curso da Udemy 
+Projeto GTA com os gêmeos do Dev-em-Dobro. Práticas de Html, Css, responsividade. 
