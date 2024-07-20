@@ -1,1 +1,3 @@
 Projeto GTA com os gêmeos do Dev-em-Dobro. Práticas de Html, CSS, Responsividade.
+
+É daí que sai um site, uma rede social. Os conteúdos que são visíveis num browser(Chrome). É assim que eles são criados; entre diversas linguagens de programação: que é a Linguagem homem - computador, uma "espécie" de tradutor, porque a máquina funciona em número binário entre O e 1, é como se fosse um tradutor que decifra 2 idiomas diferentes entre 2 pessoas. Aqui tá a base da parada: HTML, CSS e JavaScript, sem esses 3 não existe um site, na vdd sem o HTML.  O HTML é o corpo, ele vai transmitir a escrita do conteúdo, o CSS vai estilizar, vai definir as características do site, a beleza. O Javascript vai movimentar, é a funcionalidade. E assim vivemos na era da tecnologia #euTech
